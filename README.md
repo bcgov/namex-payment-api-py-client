@@ -1,3 +1,5 @@
+![Lifecycle](https://img.shields.io/badge/Lifecycle-Stable-97ca00)
+
 # openapi-client
 BC Registries Pay API reference documentation
 
